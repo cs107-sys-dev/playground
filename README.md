@@ -1,6 +1,6 @@
 # Playground
 
-Peniel is taking CS107
+Peniel, G2, is taking CS107
 
 A place to play with `git`.
 
