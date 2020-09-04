@@ -1,4 +1,5 @@
 # Playground
+Anastasia Ershova
 
 A place to play with `git`.
 
