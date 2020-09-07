@@ -1,4 +1,5 @@
 # Playground
+Haipeng Lin
 
 A place to play with `git`.
 
