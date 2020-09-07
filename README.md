@@ -6,3 +6,4 @@ A place to play with `git`.
 
 #### CSCI E-207 / CS 107
 ##### Leo Landau
+##### Masters Degree Student
