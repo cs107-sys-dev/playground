@@ -1,5 +1,4 @@
 # Playground
-
 Tao Tsui is taking AC207
 Year G1
 
