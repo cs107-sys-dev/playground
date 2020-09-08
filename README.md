@@ -6,3 +6,4 @@ A place to play with `git`.
 
 Aakash is taking STAT110, CS61, CS107, EC10a
 
+Sophmore
