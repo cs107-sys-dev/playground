@@ -1,6 +1,6 @@
 # Playground
 
-Chenguang is taking 9.520
+Chenguang (G2) is taking 9.520
 
 A place to play with `git`.
 
