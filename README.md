@@ -1,5 +1,5 @@
 # Playground
-<<<<<<< HEAD
+
 ## Ninon Becquart:
 ## I'm taking CS107 this semester, and a couple other courses as well, including my Capstone.
 
