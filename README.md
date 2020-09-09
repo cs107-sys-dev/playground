@@ -1,4 +1,5 @@
 # Playground
+Kevin Hare
 
 A place to play with `git`.
 
