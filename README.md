@@ -2,7 +2,7 @@
 
 Math 23a, Math 156
 Neil Warren
-Extension Student
+
 
 A place to play with `git`.
 
