@@ -1,5 +1,5 @@
 # Playground
-##Nishu Lahoti
+## Nishu Lahoti
 
 A place to play with `git`.
 
