@@ -1,5 +1,5 @@
 # Playground
-CS107 CS109
+Yujie Cai
 A place to play with `git`.
 
 ### Fall 2020
