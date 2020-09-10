@@ -1,6 +1,5 @@
 # Playground
-### DPI 662A: Digital Government
-### MLD 840A: Entrepreneurial Finance
+### Nishu Lahoti is taking DPI 662A: Digital Government
 
 A place to play with `git`.
 
