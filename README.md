@@ -3,4 +3,5 @@
 A place to play with `git`.
 
 ### Fall 2020
-AC207
+Zeren Long is taking AC207.
+
