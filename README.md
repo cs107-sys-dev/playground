@@ -1,6 +1,6 @@
 # Playground
 
-## Connor Capitolo is taking AC 207, CS 109A, STAT 195, CS 182
+## AC 207, CS 109A, STAT 195, CS 182
 
 ### G!
 
