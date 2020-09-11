@@ -1,6 +1,6 @@
 # Playground
 
-**Jenny's courses (_second year masters)**
+**Jenny's courses (_second year masters_)**
 * CS 107
 * BST 228
 * HDSC 375
