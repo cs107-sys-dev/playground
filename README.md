@@ -1,8 +1,5 @@
 # Playground
 
-<<<<<<< HEAD
-**Jenny's courses (_second year masters_)**
-=======
 **Jenny's courses**
 >>>>>>> parent of 79576ef... Added year
 * CS 107
