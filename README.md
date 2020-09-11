@@ -1,6 +1,6 @@
 # Playground
 
-cs107, bst260, bst222, epi201
+Yuxin Xu
 
 A place to play with `git`.
 
