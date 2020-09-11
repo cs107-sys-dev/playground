@@ -1,4 +1,5 @@
 # Playground
+CSCI E-207
 
 A place to play with `git`.
 
