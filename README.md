@@ -1,6 +1,6 @@
 # Playground
 
-AC207
+Yuxi Liu is taking AC207
 
 A place to play with `git`.
 
