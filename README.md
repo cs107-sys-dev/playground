@@ -1,5 +1,5 @@
 # Playground
-## Wenqi Chen AC209a PSY1
+## AC 207
 A place to play with `git`.
 
 ### Fall 2020
