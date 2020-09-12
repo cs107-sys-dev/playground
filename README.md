@@ -1,5 +1,5 @@
 # Playground
-CS107
+Zeyuan Hu is taking CS107.
 
 A place to play with `git`.
 
