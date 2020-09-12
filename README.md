@@ -1,5 +1,5 @@
 # Playground
-Zeyuan Hu
+Zeyuan Hu.
 
 A place to play with `git`.
 
