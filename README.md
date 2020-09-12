@@ -1,6 +1,6 @@
 # Playground
 
-AM207, CS187
+Anita Mahinpei is taking AM207 and CS187.
 
 A place to play with `git`.
 
