@@ -1,6 +1,6 @@
 # Playground
 
-Astro 204
+Victoria DiTomasso is taking Astro204
 
 A place to play with `git`.
 
