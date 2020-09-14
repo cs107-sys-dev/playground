@@ -1,5 +1,5 @@
 # Playground
-Kexin Huang AC207, HDS325, Master
+Kexin Huang AC207, HDS325
 
 A place to play with `git`.
 
