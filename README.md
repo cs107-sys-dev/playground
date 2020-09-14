@@ -1,6 +1,6 @@
 # Playground
 
-Guanhua is taking CS107; 1st year master student
+Guanhua is taking CS107
 
 A place to play with `git`.
 
