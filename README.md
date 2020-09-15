@@ -1,5 +1,6 @@
 # Playground
-## CS107, AC209a
+
+Benjamin Liu is taking CS107 and AC209a
 
 A place to play with `git`.
 
