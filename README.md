@@ -4,8 +4,6 @@
 
 ## Tianlei He
 
-G2 Student
-
 A place to play with `git`.
 
 ### Fall 2020
