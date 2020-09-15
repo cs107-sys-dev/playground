@@ -1,5 +1,7 @@
 # Playground
-cs107 cs171 cs109
+
+Jim Zhang is taking cs107 cs109 cs171.
+
 A place to play with `git`.
 
 ### Fall 2020
