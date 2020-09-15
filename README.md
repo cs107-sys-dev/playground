@@ -1,6 +1,6 @@
 # Playground
 
-Yang Xiang is taking AC207. 
+Yang Xiang, G1 student, is taking AC207. 
 
 A place to play with `git`.
 
