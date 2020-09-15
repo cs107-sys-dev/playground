@@ -1,5 +1,7 @@
 # Playground
-Software Design Pattern
+
+ChunChao is taking CS107
+
 A place to play with `git`.
 
 ### Fall 2020
