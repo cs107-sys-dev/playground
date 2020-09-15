@@ -1,6 +1,6 @@
 # Playground
 
-Aleksander Aleksiev.
+Aleksander Aleksiev. (Extension School, 2nd year).
 
 Courses this semester:
 
