@@ -1,5 +1,7 @@
 # Playground
 
+Aleksander Aleksiev.
+
 Courses this semester:
 
 * CSCI E-207
