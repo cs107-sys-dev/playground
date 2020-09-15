@@ -1,5 +1,7 @@
 # Playground
-Saul Soto is taking CS107, PSY1900, PSY1201, PSY1005, GENED1105
+Saul Soto is taking CS107
+
+He is a junior.
 
 He is a junior at the college.
 
