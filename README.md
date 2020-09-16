@@ -1,4 +1,5 @@
 # Playground
+Hugo Fernandez-Montenegro
 
 A place to play with `git`.
 
