@@ -1,5 +1,5 @@
 # Playground
-Matthew Hawes, 2021
+Matthew Hawes
 
 A place to play with `git`.
 
