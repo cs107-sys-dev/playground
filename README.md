@@ -2,8 +2,6 @@
 
 ## Chen (Lucy) Zhang
 
-### G1, Master Student
-
 ### make every pixel perfect
 ### CS 107
 
