@@ -5,7 +5,10 @@ AM205
 6.804
 MLD304
 Creative Writing
+
 Wenhan Zhang
+
+G1
 
 A place to play with `git`.
 
