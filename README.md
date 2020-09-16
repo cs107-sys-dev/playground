@@ -1,4 +1,6 @@
 # Playground
+CS121
+CS107
 
 A place to play with `git`.
 
