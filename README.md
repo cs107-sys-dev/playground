@@ -4,7 +4,7 @@
 
 ### make every pixel perfect
 ### CS 107
-
+### G1, Master Student
 ### Cheers~
 
 
