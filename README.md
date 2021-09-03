@@ -4,4 +4,6 @@
 
 A place to play with `git`.
 
-### Fall 2020
+### Fall 2021
+
+![git meme](https://pbs.twimg.com/media/EhGCa8VWkAIS8Mn.jpg)
