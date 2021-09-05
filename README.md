@@ -1,6 +1,6 @@
 # Playground
 
-Courses I plan to take : BST260, CS107
+Ling_Feng plan to take : BST260, CS107
 
 A place to play with `git`.
 
