@@ -1,6 +1,6 @@
 # Playground
 
-CS165
+Xinran Tang is taking cs165
 
 A place to play with `git`.
 
