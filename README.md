@@ -1,5 +1,5 @@
 # Playground
-Taro Spirig
+Taro Spirig  
 
 A place to play with `git`.
 
