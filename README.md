@@ -1,6 +1,6 @@
 # Playground
 
-AC209A CS165 AC215 AC229
+Yuanbiao Wang is taking AC209A, CS165, AC229, etc.
 
 A place to play with `git`.
 
