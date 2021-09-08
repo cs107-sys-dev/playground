@@ -1,7 +1,6 @@
 # Playground
 
-- BMI 703: Precision Medicine 1
-- BMI 705: Precision Medicine 2
+Kelsey Luu is taking BMI 703 and BMI 705.
 
 A place to play with `git`.
 
