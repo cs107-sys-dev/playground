@@ -1,6 +1,6 @@
 # Playground
 
-Aloysius Lim is taking AC209a. 2021
+Aloysius Lim is taking AC209a.
 
 A place to play with `git`.
 
