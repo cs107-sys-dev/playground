@@ -1,6 +1,6 @@
 # Playground
 
-##caitlin lau
+## caitlin lau
 
 A place to play with `git`.
 
