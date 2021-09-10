@@ -1,6 +1,6 @@
 # Playground
 
-CS107, CS109, CS242
+Jeremy Zhang is taking CS107, CS109, and CS242
 
 A place to play with `git`.
 
