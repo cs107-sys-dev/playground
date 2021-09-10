@@ -1,6 +1,6 @@
 # Playground
 
-G4 Selina Qian is taking Research&theory of learning
+Selina Qian is taking Research&theory of learning
 
 A place to play with `git`.
 
