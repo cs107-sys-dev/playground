@@ -1,6 +1,6 @@
 # Playground
 
-## Alex Kashi was here forcing merge conflict
+## Alex Kashi was here resolving a merge conflict
 
 A place to play with `git`.
 
