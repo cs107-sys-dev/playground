@@ -8,5 +8,3 @@ AC207, AC209a, MIT6.036, AM205
 
 ## Nicolas Dhers
 
-I am a G1 CSE Master Student
-
