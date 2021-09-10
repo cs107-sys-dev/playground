@@ -1,4 +1,5 @@
 # Playground
+David Berthiaume
 
 A place to play with `git`.
 
