@@ -1,5 +1,5 @@
 # Playground
-
+Adriana is taking the following
 CS107
 CS109a
 AM205
