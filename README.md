@@ -1,7 +1,8 @@
 # Playground
 
-A place to play with `git`.
+AC207
 
-Courses: AC 209A, STAT 210.
+A place to place with `git`.
+
 `
 ### Fall 2021
