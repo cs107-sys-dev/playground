@@ -1,6 +1,5 @@
 # Playground
 ## Bhawesh Kumar's Fall term courses
-### Bhawesh is a grad student at Harvard Chan.
 - EPI201
 - CS107
 - BST260
