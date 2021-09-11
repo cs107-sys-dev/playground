@@ -1,6 +1,6 @@
 # Playground
 
-STAT 139
+Anna Bialas is taking STAT 139.
 
 A place to play with `git`.
 
