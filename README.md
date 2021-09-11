@@ -1,5 +1,5 @@
 # Playground
-## MY Fall term courses
+## Bhawesh Kumar's Fall term courses
 - EPI201
 - CS107
 - BST260
