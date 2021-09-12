@@ -1,4 +1,5 @@
 # Playground
+Anna Wuest
 
 A place to play with `git`.
 
