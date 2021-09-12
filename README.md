@@ -1,5 +1,6 @@
 # Playground
-One course I am taking is CS107. 
+
+One course Arno Cai is taking is CS107. 
 
 A place to play with `git`.
 
