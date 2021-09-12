@@ -1,4 +1,6 @@
 # Playground
+Fiona Henry 
+
 I am taking
 1. Visualization 
 2. Stochastic Methods 
