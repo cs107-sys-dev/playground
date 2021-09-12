@@ -1,5 +1,5 @@
 # Playground
-## Alice Cai
+Alice Cai
 
 A place to play with `git`.
 
