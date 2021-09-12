@@ -1,6 +1,6 @@
 # Playground
 
-I am taking BMI703
+Shangshang Wang is taking BMI703
 
 A place to play with `git`.
 
