@@ -7,8 +7,6 @@ I am taking
 3. Numerical Methods 
 4. CS107 
 
-I am G1 
-
 A place to play with `git`.
 
 ### Fall 2021
