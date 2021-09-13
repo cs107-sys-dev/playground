@@ -1,4 +1,5 @@
 # Playground
+Anjali Chakradhar
 
 A place to play with `git`.
 
