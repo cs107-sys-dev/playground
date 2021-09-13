@@ -1,7 +1,7 @@
 # Playground
 
 AC295 Jie Sun
-G2
+G
 
 A place to play with `git`.
 
