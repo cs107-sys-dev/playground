@@ -1,4 +1,5 @@
 # Playground
+LS100, Physics 2, Psych 1005
 
 A place to play with `git`.
 
