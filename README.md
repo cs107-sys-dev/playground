@@ -1,6 +1,6 @@
 # Playground
 
-AC207, CS283, AC295, AM207
+Geoffrey Liu is taking AC207, CS283, AC295, AM207
 
 A place to play with `git`.
 
