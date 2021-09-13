@@ -1,6 +1,6 @@
 # Playground
 
-Logan Clifton is taking:
+Logan Clifton, a potential Senior, is taking:
 CS107
 CS120
 GENED 1006
