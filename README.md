@@ -1,6 +1,6 @@
 # Playground
 
-AC207
+Jing Xu is taking AC207
 
 A place to play with `git`.
 
