@@ -1,5 +1,6 @@
 # Playground
 
+Logan Clifton is taking:
 CS107
 CS120
 GENED 1006
