@@ -1,4 +1,5 @@
 # Playground
+*Tyler Barnett*
 
 A place to play with `git`.
 
