@@ -1,6 +1,6 @@
 # Playground
 
-AC207, AC209, AC298r
+AC207, AC209
 
 ### Fall 2021
 
