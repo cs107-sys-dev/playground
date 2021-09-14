@@ -1,5 +1,7 @@
 # Playground
 
+Academic year: G1, MS Data Science
+
 Courses:
 
 AC 207
