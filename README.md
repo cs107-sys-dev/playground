@@ -1,6 +1,6 @@
 # Playground
 
-Nico (G1) is taking Artificial Intellegence (extra committ after merge)
+Nico (G1) is taking Artificial Intellegence
 
 A place to play with `git`.
 
