@@ -7,7 +7,7 @@ The courses I plan to take this semester are: AC207, AM205, AC109a, and MIT 6.03
 
 anavitoria_rodrigueslima_changes
 
-Academic year: I am a G1 master student.
+I am a first year G1 master student in CSE
 
 A place to play with `git`.
 
