@@ -1,5 +1,5 @@
 # Playground
-G1
+
 Classes of Fall 2021: AM208, AC207, AC109a, STAT 185
 
 Kimon Aristotelis Vogt
