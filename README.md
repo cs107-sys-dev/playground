@@ -1,4 +1,5 @@
-# Playground
+# Playground  
+Charlie Harrington
 
 A place to play with `git`.
 
