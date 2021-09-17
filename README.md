@@ -1,4 +1,4 @@
-# Playground
+# Fluid Dynamics Playground
 
 Bowen is taking CS107
 
