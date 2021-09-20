@@ -1,4 +1,6 @@
-# Playground
+# Workground
+
+Alice Cai is taking CS136, CS107, APMTH22a, FRSEMR61Q
 
 A place to play with `git`.
 
