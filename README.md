@@ -6,4 +6,4 @@ A place to play with `git`.
 
 
 
-Lanting Li once visited this page.
+Lanting Li has visited this page twice.
