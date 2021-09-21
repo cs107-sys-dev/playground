@@ -6,4 +6,4 @@ A place to play with `git`.
 
 
 
-Lanting Li has visited this page twice.
+Lanting Li and Jiaye Chen have visited this page twice.
