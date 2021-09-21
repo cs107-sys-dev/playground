@@ -1,6 +1,6 @@
 # I am making some changes, my name is Shangshang Wang
 
-Shangshang Wang is taking BMI703
+Shangshang Wang is taking BMI 703
 
 A place to play with `git`.
 
@@ -9,3 +9,4 @@ A place to play with `git`.
 
 
 Lanting Li and Jiaye Chen have visited this page twice.
+
