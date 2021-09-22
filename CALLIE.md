@@ -1,4 +1,4 @@
-# Playground - callie's version
+# Playground
 
 Planning to also take AM205
 
