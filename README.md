@@ -1,4 +1,4 @@
-# Testing a merge conflict
+Testing a merge conflict/PP3 Exercise 2
 
 Emma Besier is taking CS107, AM207, AM205.
 
