@@ -1,4 +1,4 @@
-# Playground
+# Testing a merge conflict
 
 Emma Besier is taking CS107, AM207, AM205.
 
